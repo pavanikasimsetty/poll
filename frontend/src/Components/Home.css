@@ -1,5 +1,5 @@
 .background-gradient {
-    background: linear-gradient(135deg, #0056b3, #00b39f);
+    background: linear-gradient(135deg, #fa90f3, #a46aaa);
     animation: gradientAnimation 10s ease infinite alternate;
     min-height: 100vh; /* Ensure the container fills the entire viewport height */
   }
