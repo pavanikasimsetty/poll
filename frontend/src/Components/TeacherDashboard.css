@@ -1,6 +1,6 @@
 /* TeacherDashboard.css */
 .teacher-dashboard {
-    background: linear-gradient(135deg, #abc3dc, #c3dedb);
+    background: linear-gradient(135deg, #abdcd8, #abdcd8);
     animation: gradientAnimation 10s ease infinite alternate;
     min-height: 100vh;
   }
