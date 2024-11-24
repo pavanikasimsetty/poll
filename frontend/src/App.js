@@ -18,7 +18,7 @@ import { useEffect } from 'react';
 import io from 'socket.io-client';
 
 function App() {
-  const socket = io('https://polling-9wz4-backend.vercel.app');
+  const socket = io('https://poll-red.vercel.app');
   useEffect(() => {
     return () => {
       socket.disconnect();
