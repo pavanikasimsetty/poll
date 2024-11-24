@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container-fluid text-center py-5 background-gradient d-flex align-items-center">
       <div className="container">
-        <h1 className="display-4 mb-4 text-white title">Empower Education with Real-Time Polling</h1>
+        <h1 className="display-4 mb-4 text-white title">Testing With Real-Time Polling</h1>
         <p className="lead mb-5 text-white">Empowering educators and students through interactive learning</p>
 
         <div className="row justify-content-center">
